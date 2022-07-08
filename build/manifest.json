@@ -1,0 +1,16 @@
+{
+    "short_name": "4cam",
+    "name": "4CAM",
+    "icons": [
+      {
+        "src": "diamond.png",
+        "type": "image/png",
+        "sizes": "64x64"
+      }
+    ],
+    "start_url": "/chat",
+    "display": "standalone",
+    "theme_color": "#ff0000",
+    "background_color": "#ff0000"
+  }
+  
